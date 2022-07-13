@@ -15,10 +15,10 @@ general:
 
 brand:
   new_issue_url: https://github.com/patel0098/searxng/issues/new
-  docs_url: false
+  docs_url: https://example.org/
   public_instances: false
-  wiki_url:falsehttps://github.com/searxng/searxng/wiki
-  issue_url: false
+  wiki_url: https://github.com/patel0098/searxng/wiki
+  issue_url: https://github.com/patel0098/searxng/issues
 
 search:
   # Filter results. 0: None, 1: Moderate, 2: Strict
